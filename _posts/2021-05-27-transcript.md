@@ -4,7 +4,7 @@ layout: post
 categories: [Celeste, Creative_Writing]
 tags: [Story]
 ---
-(This story is a directly related to [A Dream - Part 3](/celeste/2021/02/28/dream-pt-3))
+(This story is a directly related to [A Dream - Part 3](_posts\2021-02-28-dream-pt-3.md))
 
 [Start Transcript]
 
