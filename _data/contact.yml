@@ -6,13 +6,21 @@
 - type: twitter
   icon: "fab fa-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  type: patreon
+  icon: "fab fa-patreon"
+  url: "https://www.patreon.com/skylercomet"
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+  type: twitch
+  icon: "fab fa-twitch"
+  url: "https://www.twitch.tv/skylercomet" 
+
+- # type: email
+  # icon: "fas fa-envelope"
+  # noblank: true # open link in current tab
+
+- # type: rss
+  # icon: "fas fa-rss"
+  # noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
