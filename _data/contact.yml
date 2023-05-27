@@ -8,11 +8,11 @@
   url: "https://twitter.com/SkylerComet"
 
 - type: youtube
-  icon: "fa-brands fa-youtube"
+  icon: "fa-solid fa-play"
   url: "https://www.youtube.com/channel/UCv1rnC-EO5UTuYb5pO2622Q"
 
   type: patreon
-  icon: "fa-brands fa-patreon"
+  icon: "fa-solid fa-p"
   url: "https://www.patreon.com/skylercomet"
 
   type: twitch
