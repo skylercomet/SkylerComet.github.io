@@ -18,24 +18,24 @@ This is where you can find information on my livestreams! You'll find old VODs, 
 
 <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
   <script type="text/javascript">
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Embed("twitch-embed"), {}
         width: 720,
         height: 405,
-        channel: "celestestarlite",
-      });</script>
+        channel: "skylercomet",
+      ;</script>
 
 If not, you can check out my [VODs!](https://www.youtube.com/channel/UCoRECiPve1lMf-CPBCHYLAg)
 
 ## Highlighted VOD ##
 
-its a sniper angle (December 17th. 2022)
+Charity Stream - Part 1 (December 22nd, 2022)
 
-I haven't streamed in a while because of my classes at university, but here's an old one I quite enjoyed! I hope you all do too :3
+Finally uploaded the charity stream vods! It's the best stuff I've done ever, so hope you love it too!
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/jVm-AGrKzMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/HHuPidEKOKk?si=a-NpbuqKkeJus3qe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Latest Video ##
 
-For visitng the website, how would you like to see a nice unlisted video? Here's a series of clips from my offline gaming for you to enjoy!
+With some work, I edited together some more clips and made another highlight of offline stuff! Please enjoy
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/1EaQo_Xyjjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/Z6-rhwt3tI8?si=v1cIDoR-JqeNy8Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

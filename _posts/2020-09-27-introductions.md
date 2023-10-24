@@ -1,7 +1,7 @@
 ---
 title: Celeste - Introductions
 layout: post
-categories: [Celeste, Creative_Writing]
+categories: [Celeste]
 tags: [Story]
 ---
 

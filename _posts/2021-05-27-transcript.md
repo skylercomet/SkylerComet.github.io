@@ -1,7 +1,7 @@
 ---
 title: Celeste - Transcript
 layout: post
-categories: [Celeste, Creative_Writing]
+categories: [Celeste]
 tags: [Story]
 ---
 (This story is a directly related to [A Dream - Part 3][def])
