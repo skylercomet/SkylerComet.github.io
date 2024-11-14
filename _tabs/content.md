@@ -28,14 +28,14 @@ If not, you can check out my [VODs!](https://www.youtube.com/channel/UCoRECiPve1
 
 ## Highlighted VOD ##
 
-Charity Stream - Part 1 (December 22nd, 2022)
+Charity Stream - Part 1 (December 30th, 2023)
 
-Finally uploaded the charity stream vods! It's the best stuff I've done ever, so hope you love it too!
+I have another charity stream in the works, but here's the footage from last year!
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/HHuPidEKOKk?si=a-NpbuqKkeJus3qe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/watch?v=WasGOnlFpqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Latest Video ##
 
-With some work, I edited together some more clips and made another highlight of offline stuff! Please enjoy
+While I wrap up with the Buckshot Roulette video, here's a project I made earlier this year!
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/Z6-rhwt3tI8?si=v1cIDoR-JqeNy8Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/watch?v=ypl8ZJfW498" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
