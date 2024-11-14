@@ -32,10 +32,10 @@ Charity Stream - Part 1 (December 30th, 2023)
 
 I have another charity stream in the works, but here's the footage from last year!
 
-<iframe width="720" height="405" src="https://www.youtube.com/watch?v=WasGOnlFpqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/WasGOnlFpqk?si=shMf5i-L6orA67y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Latest Video ##
 
 While I wrap up with the Buckshot Roulette video, here's a project I made earlier this year!
 
-<iframe width="720" height="405" src="https://www.youtube.com/watch?v=ypl8ZJfW498" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/ypl8ZJfW498?si=tfJ-vLCWoae29Beo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
