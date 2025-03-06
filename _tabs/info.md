@@ -11,9 +11,9 @@ I began streaming on Twitch despite my anxiety, and created a heartwarming commu
 
 # Where can you find me? #
 
-Here's Twitter, a place I kinda update things but less so now. I think it's better to find me on Discord, but this is a place to start!
+Because I don't use twitter, how about I put in a Bluesky link for some better access?
 
-[Twitter][def]
+[Bluesky][def]
 
 Here is Twitch, where I stream playing games every so often! During my university quarters it can be hard to find me here, but during summer and my breaks you'll find me streaming quite irregularly! Make sure to check it every once and a while!
 
@@ -30,8 +30,8 @@ I also have a youtube channel! One for my old VODs and one for edited videos and
 
 
 
-[def]: https://twitter.com/skylercomet
+[def]: https://bsky.app/profile/skylercomet.bsky.social
 [def2]: https://www.twitch.tv/skylercomet
-[def3]: https://www.patreon.com/celestestarlite
+[def3]: https://www.patreon.com/skylercomet
 [def4]: https://www.youtube.com/channel/UCv1rnC-EO5UTuYb5pO2622Q
 [def5]: https://www.youtube.com/channel/UCoRECiPve1lMf-CPBCHYLAg

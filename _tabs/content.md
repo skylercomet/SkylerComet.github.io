@@ -11,18 +11,19 @@ This is where you can find information on my livestreams! You'll find old VODs, 
 ## Am I live? Check here! ##
 
 <!-- Add a placeholder for the Twitch embed -->
- <div id="twitch-embed"></div>
+<div id="twitch-embed"></div>
 
 <!-- Load the Twitch embed script -->
-<script src="https://embed.twitch.tv/embed/v1.js"></script>
+<script src="https://player.twitch.tv/js/embed/v1.js"></script>
 
-<!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
-  <script type="text/javascript">
-      new Twitch.Embed("twitch-embed"), {}
-        width: 720,
-        height: 405,
-        channel: "skylercomet",
-      ;</script>
+<!-- Create a Twitch.Player object. This will render within the placeholder div -->
+<script type="text/javascript">
+  new Twitch.Player("twitch-embed", {
+    width: 720,
+    height: 405,
+    channel: "skylercomet"
+  });
+</script>
 
 If not, you can check out my [VODs!](https://www.youtube.com/channel/UCoRECiPve1lMf-CPBCHYLAg)
 
