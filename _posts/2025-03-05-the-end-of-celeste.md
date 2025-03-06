@@ -5,6 +5,10 @@ categories: [Celeste]
 tags: [Story]
 ---
 
+(Hi! This piece is inspired by, dedicated to, and quotes the lovely A. K. Ronin! While I don't believe he's published any work publically, I asked for how he would like to have been credited and was given his blessing. To Ronin, thank you for this second lease on creation—I intend to use it to its fullest. And to the reader, whether you were with me from the beginning or just joining now, I hope you enjoy.)
+
+---
+
 I think I shut myself out that day, to be honest.
 
 The panic I felt in that one moment was more than I could take. It was something about the scientific nature of the meeting and the curiosity I had about what was coming. It helped that my dad took me to the appointment rather than my mother—she had her own agendas. I remember how we butted heads in front of the psychiatrist during the first meeting over what was true and false about me and what we thought was going on. I could tell the doctor was uncomfortable with it—they rushed me along to the testing to avoid having to listen to us getting more and more aggressive over my past.
