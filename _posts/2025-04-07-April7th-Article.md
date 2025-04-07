@@ -7,7 +7,7 @@ tags: [Article]
 
 Watching “A Minecraft Movie” was bad enough to make me reconsider being overly positive—but a good night’s sleep and a conversation reminded me why I shouldn’t be hateful.
 
-If you know me, you know that I’m a pretty generous person when it comes to praise. Even with contentious media that many people use as the butt end of jokes, like Fortnite or Five Nights at Freddies, I find a way to stay positive. In addition, I’m pretty often found playing subpar games or enjoying slop media, such as my urge to watch low count videos that I’m recommended or my current playtime in Fortnite Ranked Ballistics (and if you don’t know what it is, just imagine a roblox recreation of CS:GO). The general idea is that if you’re looking for someone to bear with you through a horrible television show for an unreasonable amount of time, then I’m your girl.
+If you know me, you know that I’m a pretty generous person when it comes to praise. Even with contentious media that many people use as the butt end of jokes, like Fortnite or Five Nights at Freddy's, I find a way to stay positive. In addition, I’m pretty often found playing subpar games or enjoying slop media, such as my urge to watch low count videos that I’m recommended or my current playtime in Fortnite Ranked Ballistics (and if you don’t know what it is, just imagine a roblox recreation of CS:GO). The general idea is that if you’re looking for someone to bear with you through a horrible television show for an unreasonable amount of time, then I’m your girl.
 
 And then I watched “A Minecraft Movie” yesterday with a couple of friends.
 
