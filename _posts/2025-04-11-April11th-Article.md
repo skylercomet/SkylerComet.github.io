@@ -15,7 +15,7 @@ It’s just something I wanted to mention as I existed on my birthday—as I gre
 
 It was the nature of joy and whimsy that comes from birthdays that I wanted to understand should exist within games. It isn’t uncommon for games to ask for your birthday—at least with live-service games or ones that require alternative accounts. Even so, I find that only free-to-play gacha games I touch infrequently will reward my birthday with a couple of easily gathered resources with a pretty standard message. It feels like a product of our time with the early internet, constant safety around our days of birth in order to avoid a dangerous site using it for malice. While this danger is somewhat real, the level of comfort we’ve gotten with sharing our birthdays online in social media means that if someone wanted to get our birthday, they would most likely find it through a couple of searches.
 
-It’s the whimsy that I care about—I’m simply brought back to a time of joy I remember of a very old birthday in which I received a call from Geoffrey the Giraffe telling me about how it was my birthday. Geoffrey—the mascot for Toys “R” Us—was a [pre-recorded message] and these calls were sent to people who signed up for a “Birthday Club” that gave your kid a message on their special day. No matter how small or simple it was, the wonder and joy that came from that simple thing was something I really clicked with. So, living almost 20 years after this idea first existed, why have I seen nothing anywhere close to the level of love this had?
+It’s the whimsy that I care about—I’m simply brought back to a time of joy I remember of a very old birthday in which I received a call from Geoffrey the Giraffe telling me about how it was my birthday. Geoffrey—the mascot for Toys “R” Us—was a [pre-recorded message][def1] and these calls were sent to people who signed up for a “Birthday Club” that gave your kid a message on their special day. No matter how small or simple it was, the wonder and joy that came from that simple thing was something I really clicked with. So, living almost 20 years after this idea first existed, why have I seen nothing anywhere close to the level of love this had?
 
 Just to make sure I’m being fair, I opened up Honkai Star Rail to see what they wrote me:
 
@@ -31,4 +31,6 @@ And maybe part of this is intended—a parasocial message from a game doesn’t 
 But if a game wants to know my birthday, the least they can do is send me a gift card.
 
 
+
+[def1]: https://www.youtube.com/watch?v=9-fxTkSgfFU 
 
