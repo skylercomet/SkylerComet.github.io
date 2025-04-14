@@ -7,9 +7,9 @@ tags: [Article]
 
 Of every announcement to get me locked into my screen, it had to be Toby Fox’s Deltarune trailer.
 
-This is a shorter article, but I wanted to cover something that had nothing but pure joy and love behind it. While articles I write often want to discuss specific complex topics or issues I have, I wanted a time to simply put something wonderful onto a pedestal and praise it. That thing is the Nintendo Switch 2 trailer for Deltarune, revealed on April 2nd to give us the release of chapters 3 and 4—June 5th, 2025.
+This is a shorter article, but I wanted to cover something that had nothing but pure joy and love behind it. While articles I write often want to discuss specific complex topics or issues I have, I wanted a time to simply put something wonderful onto a pedestal and praise it. That thing is the [Nintendo Switch 2 trailer for Deltarune][def1], revealed on April 2nd to give us the release of chapters 3 and 4—June 5th, 2025.
 
-For the unfamiliar, Deltarune is the second game by Toby Fox, the video game developer and composer that was the genius behind the indie RPG Undertale. Deltarune’s first chapter was released in 2018, the second in 2021, and now with two more available later this year. The game follows 3 heroes saving their world and another from various forces—an adventure full of laughter and mystery as things continue to unravel. I’d say more, but this paragraph was intended for those of you who haven’t played it. If you’ve yet to experience Undertale or Deltarune, please take today to begin installing and playing the game. It’s ok, this article will be here for when you come back.
+For the unfamiliar, Deltarune is the second game by Toby Fox, the video game developer and composer that was the genius behind the indie RPG Undertale. Deltarune’s first chapter was released in 2018, the second in 2021, and now with two more available later this year. The game follows 3 heroes saving their world and another from various mysterious forces—an adventure full of laughter and mystery as things continue to unravel. I’d say more, but this paragraph was intended for those of you who haven’t played it. If you’ve yet to experience Undertale or Deltarune, please take today to begin installing and playing the game. It’s ok, this article will be here for when you come back.
 
 For anyone following Toby Fox, I’m sure you’re as excited as I am. Which is why I audibly screamed while watching a small white dog scamper onto screen on a black background during the Nintendo Switch 2 Direct. While learning a release date was obviously an exciting moment, I want to highlight the beauty in the trailer’s design that moved me beyond anything I’d seen in recent memory.
 
@@ -24,3 +24,10 @@ As the music hits the chorus, we see gameplay that swaps from familiar to unfami
 I don’t have any fancy college-educated analysis for the trailer and why it’s so good. It just feels good. It is emblematic of the love and joy that comes from indie creators as they show off the best facets of their work and deliver to their fans a beautiful product. There’s no fancy graphics or performance reveals—it’s simply a story of friendship and humor given to us in a satisfying way, leaving us with a 2 month wait for an exciting continuation of the fantastic work from Toby Fox. Once again, there’s no meaning to this article—it’s just appreciation for a beautiful moment in gaming.
 
 And the game isn’t even out yet.
+
+
+
+[def1]: https://www.youtube.com/watch?v=GIRFj-YD-Hc
+[def2]: https://www.youtube.com/watch?v=lZqrG1bdGtg
+[def3]: https://www.youtube.com/watch?v=TwujSQaViWM
+[def4]: https://www.youtube.com/watch?v=AZ_m--EouYs
