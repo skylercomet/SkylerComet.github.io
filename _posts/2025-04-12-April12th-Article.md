@@ -1,5 +1,5 @@
 ---
-title: Bungie's Extraction Shooter "Marathon" And Its Genre Defining Choices
+title: Bungie's Extraction Shooter "Marathon" And its Genre Defining Choices
 layout: post
 categories: [Articles, April_2025_Portfolio]
 tags: [Article]

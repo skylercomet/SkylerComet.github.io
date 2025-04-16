@@ -1,5 +1,5 @@
 ---
-title: Nintendo's Pricing Might Require Additional Thought, From Them and You
+title: Nintendo's Pricing Might Require Additional Thought, From Them And You
 layout: post
 categories: [Articles, April_2025_Portfolio]
 tags: [Article]

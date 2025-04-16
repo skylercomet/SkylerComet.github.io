@@ -1,5 +1,5 @@
 ---
-title: Deltarune's Latest Trailer is a Work of Art
+title: "\"Deltarune\" And its Latest Trailer is a Work of Art"
 layout: post
 categories: [Articles, April_2025_Portfolio]
 tags: [Article]
@@ -13,7 +13,7 @@ For the unfamiliar, Deltarune is the second game by Toby Fox, the video game dev
 
 For anyone following Toby Fox, I’m sure you’re as excited as I am. Which is why I audibly screamed while watching a small white dog scamper onto screen on a black background during the Nintendo Switch 2 Direct. While learning a release date was obviously an exciting moment, I want to highlight the beauty in the trailer’s design that moved me beyond anything I’d seen in recent memory.
 
-We all have trailers that we hold dear to our heart—gripping memories or powerful imagery that, regardless of the game’s final release, we find ourselves returning to. For those curious, mine are (in no particular order) the staple Dead Island Official Announcement Trailer, the Destiny 2: Lightfall Launch Trailer from the Playstation State of Play, and the Bulletstorm: Full Clip Launch Trailer that introduced me to the music artist Krewella. Of these, I failed to play 2 of these games and the last was a tonal contrast to the love I had from the trailer. With this new Deltarune trailer joining the ranks of these 3, I’m excited to finally have a touching trailer for a source material I will enjoy thoroughly.
+We all have trailers that we hold dear to our heart—gripping memories or powerful imagery that, regardless of the game’s final release, we find ourselves returning to. For those curious, mine are (in no particular order) the staple [Dead Island Official Announcement Trailer][def2], the [Destiny 2: Lightfall Launch Trailer from the Playstation State of Play][def3], and the [Bulletstorm: Full Clip Launch Trailer][def4] that introduced me to the music artist Krewella. Of these, I failed to play 2 of these games and the last was a tonal contrast to the love I had from the trailer. With this new Deltarune trailer joining the ranks of these 3, I’m excited to finally have a touching trailer for a source material I will enjoy thoroughly.
 
 I mean, I did end up enjoying Lightfall. It’s pretty solid. People are just haters.
 
