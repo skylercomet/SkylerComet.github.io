@@ -1,0 +1,31 @@
+---
+title: The Switch 2's "Mario Kart World" Costs As Much As My Graduation
+layout: post
+categories: [Articles, April_2025_Portfolio]
+tags: [Article]
+---
+
+With two very different ways to spend $80, I think that I really needed this Nintendo Direct to learn about why “Mario Kart World” will be as expensive as it is.
+
+As context: Yes, there’s an $80 graduation fee in the form of purchasing a necessary cap and gown. This doesn’t include all the other prices and additional fees you can have if you want other accessories. The pricing was something I recognized today when walking home to cover the “Mario Kart World” video we were given this morning. I can’t tell which of these two $80 purchases are underpriced or overpriced but I can at least give some news as to what we’ve been told.
+
+Nintendo graced us with a nice [17 minute video][def1] on their future release in the form of a Mario Kart World Direct, introducing various details such as the courses and features that are being added. A lot of these were things we’ve been privy to with the information revealed in the Switch 2 direct: dynamic weather and new characters such as Cow from….MooMoo Farms I’d assume? Perhaps I’m missing some lore but we also learned that other various minor characters such as mainline game enemies will be added as new characters. Considering the 13 pages of characters featured when scrolling through considering the new outfit system, it is safe to assume that we won’t be lacking in that department. One unique thing that was discussed but is now more public is that vehicle customization is officially gone, returning to old vehicle selection without new paragliders or wheels.
+
+It’s very good to note how the world is beginning to grow with highlights of the smaller details. Smaller and more random hazards outside of the tracks such as bullet bills or hammer bros are making their appearance to disrupt the free-roaming sections of gameplay, as well as the semi-confirmation of Rainbow Road’s addition through rumor that will be unlocked via completion of the Grand Prix mode. They’ve also taken time to highlight new items, especially the Coin Shell which will drop coins for the player in a much more interactive way than previous coin power-ups in the series. There are some fantastic additions, such as Kamek with a random assortment of polymorphs, that will likely spice up the gameplay loop for returning fans of the series. I’m partial to the new Feather power-up, especially considering how useful it will be for crafting small shortcuts on the go. It pairs incredibly well with the new movement abilities that were unveiled such as the Charge Jump.
+
+I want to now highlight my rather standard way of discussing this Direct because of the short runtime. There aren't any major design choices or huge reveals I can cover in a way that is satisfying considering how most of the direct is focused on simple facts that are traditional for a new series entry. Sure, the accessibility of things like smart steering and rewind being highlighted as well as the joy-con wheel accessory being introduced are cool and make me happy, but the details of battle mode or expanded 3 and 4 team races aren’t going to make for incredibly unique inquiry. I instead want to focus on how standard of a reveal this actually is for a game despite the shock that came from an $80 price tag. I don’t want to downplay features such as the free-roam style of Mario Kart World, but the 17 minute Direct doesn’t feel like it would sway this sentiment in any particularly significant way.
+
+As highlighted in my [previous article][def2], these price increases are an obnoxious way of exploiting customer supply and demand in a way that is actively inaccessible to people who are underprivileged. While I’m happy to know that they specified that the copy can be shared in split screen mode despite a lot of games removing that functionality as they progressed to online play, there’s no new developments in the accessibility of players that help reduce this struggle. Features like [Split Fiction’s friend pass][def3] are great examples of the ways that family multiplayer games can be given more accessibility in order to share things, and the lack of this reads as this monetary increase simply being an aggressive push to earn more money off the back of a successful console.
+
+Overall, I’m not swayed very much by the offer of my own graduation clothes or this new Mario Kart game considering the position I am in financially. Either way, I hope that more Switch 2 features and games will begin to reveal more in the nature of family and friend multiplayer that allows for sharing these experiences despite their cost. I want to once again highlight that gaming is better and more accessible than this—while full priced games and consoles increase in price, there are ways to get into games through the usage of cheaper hardware and indie games. In that same breath, I also offer the opportunity for any of you fortunate enough to enjoy this passion to share it with other friends you have that may be less fortunate through LAN parties and local play that can be a great way to help make gaming more accessible in your own way.
+
+Mario Kart World launches with the Nintendo Switch 2 on June 5th, but don’t feel discouraged if you’re unable to afford the price tag. Run it back to some old classics and enjoy your passion in the way you can. Just like with my own graduation, no price tag can stop you from still having that along the way. Even if you’re not putting out the money needed to stay included in the larger groups of gamers or graduates alike, you’re still gonna be having fun and getting your degree. Despite everything, you’ll never be less or more of what you are and love just because you don’t have the money.
+
+Remember to cherish that—no money in the world can compare to your passion and love.
+
+
+
+
+[def1]: https://www.youtube.com/watch?v=mq4uCJDwO9U 
+[def2]: https://skylercomet.github.io/posts/April3rd-Article/
+[def3]: https://www.ea.com/en/games/split-fiction/split-fiction/features/friends-pass 
