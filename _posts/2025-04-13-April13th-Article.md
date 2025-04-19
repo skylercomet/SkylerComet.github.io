@@ -5,7 +5,7 @@ categories: [Articles, April_2025_Portfolio]
 tags: [Article]
 ---
 
-With the general pessimism surrounding “Marathon” as Bungie’s new IP, I think it’s important to remind people why we should keep open minds and try out games. That’s why I played Hole.
+With the general pessimism surrounding “Marathon” as Bungie’s returning and revamped IP, I think it’s important to remind people why we should keep open minds and try out games. That’s why I played Hole.
 
 With us one day after the [Marathon announcement][def1] from Bungie about their new PvPvE extraction shooter, we’re officially going into the insufferable social media period in which it seems that the only opinion you can find between fanart of characters is the doomed complaining that surrounds every new release. While the experience is likely better for those of us on Bluesky where a kinder audience is curated, it still is awash with some confusing details. And that also means, for those of you on twitter, that things are astronomically worse with a select group of people focused on the Gamergate-like opinions of the right wing grifters currently trying to propel their “go woke, go broke” mentality. 
 
