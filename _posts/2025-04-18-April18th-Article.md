@@ -21,6 +21,8 @@ Until then, I’m very much hoping I get into the alpha as well. Even without th
 
 Just remember that the game is always subject to change.
 
+(Edit: I finished writing this from around 6-7pm and after posting it, it turns out the first codes were sent out! I got into the beta as I was writing that last line!! For anyone who's wondering if their emails are real or want to make sure they don't get hacked, check your [Bungie.net account][def8] for the code which will be there independant of the email! I'll have an article covering it on April 23rd and be streaming over on [Twitch][def9] the day of. Hope y'all get a code soon, there'll be putting new waves of codes until the end of the Alpha and more playtests including non-NA exclusive ones will be coming later!)
+
 
 
 
@@ -31,3 +33,5 @@ Just remember that the game is always subject to change.
 [def5]: https://www.forbes.com/sites/paultassi/2022/07/17/destiny-2-dev-harassment-has-directly-led-to-less-communication-from-bungie/ 
 [def6]: https://gamerant.com/steam-early-access-games-updates-warning/ 
 [def7]: https://help.marathonthegame.com/hc/en-us/articles/36494704086420-Marathon-Closed-Alpha-FAQ 
+[def8]: https://www.bungie.net/7/en/Codes/GameCodes
+[def9]: https://www.twitch.tv/skylercomet 
