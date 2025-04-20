@@ -1,5 +1,5 @@
 ---
-title: Bungie Lifts An NDA On Their "Marathon" Alpha, Turning Testing Into Content
+title: 3 Incredible Tutorals That Taught Me About First Impressions
 layout: post
 categories: [Articles, April_2025_Portfolio]
 tags: [Article]
