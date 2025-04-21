@@ -1,5 +1,5 @@
 ---
-title: Nintendo Grows Alongside Me with Switch 2's Gamechat
+title: Nintendo Grows Alongside Me with Switch 2's GameChat
 layout: post
 categories: [Articles, April_2025_Portfolio]
 tags: [Article]
