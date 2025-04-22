@@ -34,7 +34,7 @@ The experience of nothing but losses is a bucket of ice cold water in my face wh
 
 And after all of that, I’d spent the past 2 years after then still slowly learning and getting better. I’ve played in less tournaments considering the time I’m spending in college and such, but I still find time to break out my fight stick and enjoy a couple of games against friends and strangers alike as we all continue to learn more and get better. The joy in this was something that helped me finally beat back my generalized anxiety and find a bit more control in how I was able to handle myself. In that way, fighting games helped me more than anything else has.
 
-I’d like to spend more time talking about this, but my resulting story has taken up the space for two entire articles and I think I have to take some time to let this sit as its own story and write a second piece directed more to introducing people to the genre. For now, I’d like you to consider this as my pitch and the reasons I have for wanting to offer this experience. Tomorrow, I’ll go over how to get into fighting games and good options for accessible entries as well as paths to take in order to enjoy the experience further if you desire.
+I’d like to spend more time talking about this, but my resulting story has taken up the space for two entire articles and I think I have to take some time to let this sit as its own story and write a second piece directed more to introducing people to the genre. For now, I’d like you to consider this as my pitch and the reasons I have for wanting to offer this experience. Tomorrow, I’ll go over [how to get into fighting games and good options for accessible entries][def2] as well as paths to take in order to enjoy the experience further if you desire.
 
 Until then, I hope you’ll consider the ways in which it feels to take on a passion like this. There’s always so much more to what we are and what we can do.
 
@@ -43,3 +43,4 @@ Until then, I hope you’ll consider the ways in which it feels to take on a pas
 
 
 [def1]: https://2xko.riotgames.com/en-us/news/game-updates/2xko-alpha-lab-overview--faq/ 
+[def2]: https://skylercomet.github.io/posts/April22nd-Article/
