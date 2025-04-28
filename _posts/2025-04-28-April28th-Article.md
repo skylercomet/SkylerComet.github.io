@@ -1,0 +1,20 @@
+---
+title: We Need Breaks, Not Just From Work But Games
+layout: post
+categories: [Articles, April_2025_Portfolio]
+tags: [Article]
+---
+
+As I approach the end of this writing challenge while burning out pretty intensely, I’m reminded in a moment of clarity that we should really normalize taking breaks.
+
+I won’t lie—the 25th day straight of these writings has really begun taking its toll on me. The consistent effort and time I have to put into this is creating a major case of burnout considering the work I’m putting into university work as well. I gave myself this journey as a challenge I didn’t know if I could truly finish—I pushed myself to an absolute limit in order to test and see if I could live this life in some way. While the results do speak for themselves and I definitely want to pursue a future in journalism, I’d very much prefer for it to be my main and only serious commitment instead of having another 20 hours of class and homework atop it every week. It was this revelation that I never offered myself a break—no weekends off and no sick days in order for me to consider this a completed challenge.
+
+It was this realization that made me consider my relationship with healthy time commitments, not just in my work and writing but also in the games I play and how those manifest. Example: I had a friend recently get into the “Marathon” Closed Alpha the day that I’m writing this article, and I found myself dropping everything I could in order to play with them. This caused me to have a struggle with having to make it to my Pathfinder session as well as homework and writing, well, this very article. I gave myself only a 1 hour break in order to finish this up in order to keep everything else flowing, and even then my homework is completely left to the back burner while I attempt to stop myself from just booting back up into Marathon and filling a vault that’s already brimming with gear. There’s a limited time in each day that I keep stretching and pushing with everything I want that makes me have to re-evaluate the value of games in my life.
+
+Here’s another example I think people may be able to get behind: “Destiny 2” and the MMO style content loop is incredibly taxing to stay atop at all times. Weekly resets and daily quests alongside constant major missions that require grinding and mastering can become a very large time sink if one lets it. As a player, I often do. Hyperfixations on games as a neurodivergent person can cause me to forget to take breaks or even eat or sleep properly. A lot of other people experience burnout, not to mention the different levels of commitment causing content droughts or fear of missing out (FOMO) with the style that a game puts out new content. A lot of this comes down to what a healthy relationship with a game is—constant playtime to finish everything as soon as it's active is not sustainable for most people, and limited playtime can cause a struggle to complete everything. The healthy balance is dependent on the person and how they want to interact with the game, meaning there’s never a one-size fits all piece of advice. 
+
+I’d give a final example as is traditional with the 3 act structure I write in sometimes, but the truth is that this article is cut short based on my own failures to manage my own health in regards to my responsibilities. It’s a balance I’m figuring out still, and with a difficult challenge such as this one there isn’t a lot of freedom to test things as I fight through college and games and work with the end in sight.
+
+So, consider this my break. Today, I’ll write this shorter article and leave it standing as evidence that we are all human. Work and games cannot consume our lives in their entirety as long as we don’t let them, and this is my way of showing how I can step back when I know I’m approaching a burnout. Tomorrow, I have one last article planned to discuss some more news directly. After that, my final article will be a reflection piece discussing what I’ve learned and what I want to work on. Then after that I can finally be done for now.
+
+For those who’ve followed this until now, thank you all.
