@@ -1,5 +1,5 @@
 ---
-title: What It's Like Writing 30 Articles In 30 Days
+title: The Comet Observatory
 layout: post
 categories: [Project_Observatory]
 tags: [Story]
