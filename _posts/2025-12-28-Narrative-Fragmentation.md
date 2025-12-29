@@ -1,5 +1,5 @@
 ---
-title: /[NRTV.AQR] Inform.Artist=Fragmentation() SJ-127 Designated "Catley"
+title: \[NRTV.AQR] Inform.Artist=Fragmentation() SJ-127 Designated "Catley"
 layout: post
 categories: [Project_Observatory]
 tags: [Story]
