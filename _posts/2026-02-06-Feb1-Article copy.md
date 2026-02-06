@@ -1,7 +1,7 @@
 ---
 title: So, What Was Up With Highguard Am I Right?
 layout: post
-categories: [Articles, 2026]
+categories: [Articles]
 tags: [Article]
 ---
 
